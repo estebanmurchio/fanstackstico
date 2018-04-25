@@ -1,0 +1,19 @@
+{
+  "name": "fanstackstico",
+  "version": "1.0.0",
+  "description": "*something fanstackstic is about to happen*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanmurchio/fanstackstico.git"
+  },
+  "author": "Esteban Murchio",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/estebanmurchio/fanstackstico/issues"
+  },
+  "homepage": "https://github.com/estebanmurchio/fanstackstico#readme"
+}
